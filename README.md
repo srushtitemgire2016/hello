@@ -6,3 +6,5 @@ void main()
 {
 cout<<"hello";
 }
+getch();
+
